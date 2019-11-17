@@ -13,3 +13,9 @@
 `npm run build`
 
 `npm run export`
+
+# Run Production Code on Local
+
+`cd out`
+
+`serve -p 8080`
